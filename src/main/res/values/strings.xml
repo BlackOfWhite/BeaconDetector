@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BeaconDetector</string>
+    <string name="action_settings">Settings</string>
+    <string name="bluetooth_detector">Bluetooth Detector</string>
+
+    <string name="toggle_turn_on">On</string>
+    <string name="toggle_turn_off">Off</string>
+</resources>
